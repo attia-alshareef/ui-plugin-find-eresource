@@ -1,0 +1,18 @@
+{
+    "meta.title": "Plug-in do Localizador de recursos eletrônicos",
+    "permission.search": "Encontre o plug-in de recursos eletrônicos: Pesquise recursos eletrônicos",
+    "selectEresource": "Selecionar o recurso eletrônico",
+    "eresources": "E-recursos",
+    "package": "Pacote",
+    "searchInputLabel": "Pesquisar recursos eletrônicos",
+    "title": "Título",
+    "prop.eissn": "ISSN (Online)",
+    "prop.isbn": "ISBN",
+    "prop.isPackage": "É um pacote",
+    "prop.name": "Nome",
+    "prop.sourceKb": "Fonte de dados externa",
+    "prop.type": "Tipo",
+    "prop.pissn": "ISSN (Impresso)",
+    "yes": "Sim",
+    "no": "Não"
+}
